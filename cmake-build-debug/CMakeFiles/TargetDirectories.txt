@@ -1,0 +1,6 @@
+C:/Users/barba/CLionProjects/CompareStrings/cmake-build-debug/CMakeFiles/CompareStrings.dir
+C:/Users/barba/CLionProjects/CompareStrings/cmake-build-debug/CMakeFiles/CompareStrings1.dir
+C:/Users/barba/CLionProjects/CompareStrings/cmake-build-debug/CMakeFiles/CompareStrings2.dir
+C:/Users/barba/CLionProjects/CompareStrings/cmake-build-debug/CMakeFiles/CompareStrings3.dir
+C:/Users/barba/CLionProjects/CompareStrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barba/CLionProjects/CompareStrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

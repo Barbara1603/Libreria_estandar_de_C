@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CompareStrings",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CompareStrings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CompareStrings-Debug-1615729e4ff49fd5e523.json",
+					"name" : "CompareStrings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CompareStrings1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CompareStrings1-Debug-0d3e88b8a82c04d7d562.json",
+					"name" : "CompareStrings1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CompareStrings2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CompareStrings2-Debug-33f845121ea1e74d0f88.json",
+					"name" : "CompareStrings2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CompareStrings3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CompareStrings3-Debug-3a9555b85c3521e3cb2c.json",
+					"name" : "CompareStrings3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/barba/CLionProjects/CompareStrings/cmake-build-debug",
+		"source" : "C:/Users/barba/CLionProjects/CompareStrings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
