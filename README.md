@@ -1,4 +1,4 @@
-
+https://github.com/Barbara1603/Libreria_estandar_de_C.git
 
 Enunciado
 1. Las funciones comunes del lenguaje C (<stdlib.h>)
@@ -6,19 +6,21 @@ Enunciado
 a. Utiliza la función abs() para calcular el valor absoluto de un número entero. Prueba con varios números, incluyendo negativos.
 
 #include <stdlib.h>
-#include <stdio.h>
+#include <stdio.h
 
 int main() {
+
     // Declarar un número negativo
     int num = -10;
-
+    
     // Obtener el valor absoluto utilizando abs()
     int abs_num = abs(num);
 
     printf("El valor absoluto de %d es %d\n", num, abs_num);
 
     return 0;
-}
+    }
+    
 b. Usa la función rand() para generar un número aleatorio. Luego, usa srand() para cambiar la semilla de la generación de números aleatorios y observa cómo cambian los números generados.
 
 
@@ -26,14 +28,14 @@ b. Usa la función rand() para generar un número aleatorio. Luego, usa srand() 
 #include <stdio.h>
 #include <time.h>
 
-int main() {
-    srand(time(0));
 
+int main() { 
+srand(time(0)); 
     int random_number = rand();
     printf("Número aleatorio: %d\n", random_number);
 
     return 0;
-}
+    }
 2. Cadenas (<string.h>)
 
 a. Crea dos cadenas de caracteres y usa la función strcmp() para compararlas. Prueba con cadenas iguales y diferentes.
