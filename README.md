@@ -160,7 +160,8 @@ int main() {
     }
 
     return 0;
-}
+    }
+    
 Paso 4: Compilar y ejecutar el código
 
 Haz clic en "Build" en el menú superior.
